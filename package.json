@@ -1,7 +1,7 @@
 {
   "name": "regionalbites",
   "version": "0.1.0",
-  "homepage": "https://venkataniharbillakurthi.github.io/my-react-app",
+  "homepage": "https://venkataniharbillakurthi.github.io/regionalbites",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
